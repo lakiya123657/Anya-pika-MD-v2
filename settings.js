@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "ʟᴀᴋɪʏᴀ" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "hutti🤭" 
+global.botname = "💃ᴋᴀᴠɪɴᴅᴀ💃" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.packname = "ʟᴀᴋɪʏᴀ вσᡶ" // sticker watermark packname //
+global.author = "ᴘᴄʏ🤫" // sticker watermark author //
+actiontitle = '࿙ᴍᴀʟɪᴛʜ࿚' // text who displays on the top of welcome and left message //
+global.headerText = "ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['918811074852']   // Owner number //
@@ -25,18 +25,18 @@ global.headerText = "Anya by Pika" // text for header of menu //
              global.ownertag = '918811074852'  // Tag number //
              global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
              global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.waterMark = "💃ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ💃" // Your own watermark //
 
 global.prefa = ['','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "💃ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ💃"
+name17 = "💃ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ💃"
+name18 = "💃ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ💃"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `𓄂⍣⃝ʟᴀᴋɪʏᴀʜ`
+footer2 = `ᴋᴀᴠɪɴᴅᴀ 🤭`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
